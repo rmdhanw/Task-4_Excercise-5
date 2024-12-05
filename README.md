@@ -51,5 +51,7 @@ This project demonstrates how to use FreeRTOS for multitasking on an STM32 micro
 - **STM32 Microcontroller**: This example is designed for STM32 boards (e.g., STM32F4 series).
 - **STM32CubeIDE or STM32CubeMX**: For building and programming the STM32 firmware.
 
-https://github.com/user-attachments/assets/1a0b38bf-f7f7-417d-ac4a-cd7af53851cf
+https://github.com/user-attachments/assets/14d9db3f-0f14-4f7e-80c6-29f615957f35
+
+
 

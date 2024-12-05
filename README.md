@@ -22,7 +22,7 @@ This project demonstrates how to use FreeRTOS for multitasking on an STM32 micro
 
 - **Green LED**: Connected to GPIOA_PIN_0.
 - **Red LED**: Connected to GPIOA_PIN_2.
-- **Blue LED**: Connected to GPIOA_PIN_1 (not used in this example, but available for future tasks).
+- **Blue LED**: Connected to GPIOA_PIN_1.
 
 ## Files
 
